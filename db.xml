@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <ID>123</ID>
+    <Name>Jack fruit</Name>
+    <Price>20.04</Price>
+    <ImagePath>none</ImagePath>
+  </product>
+  <product>
+    <ID>123</ID>
+    <Name>Jack fruit</Name>
+    <Price>20.04</Price>
+    <ImagePath>none</ImagePath>
+  </product>
+  <product>
+    <ID>123</ID>
+    <Name>Orange juice</Name>
+    <Price>20.04</Price>
+    <ImagePath>none</ImagePath>
+  </product>
+  <product>
+    <ID>123</ID>
+    <Name>Strawberry</Name>
+    <Price>20.04</Price>
+    <ImagePath>none</ImagePath>
+  </product>
+  <product>
+    <ID>123</ID>
+    <Name>blueberry</Name>
+    <Price>20.04</Price>
+    <ImagePath>none</ImagePath>
+  </product>
+  <product>
+    <ID>D001</ID>
+    <Name>Red Wine</Name>
+    <Price>20</Price>
+    <ImagePath>noimage.jpg</ImagePath>
+  </product>
+  <product>
+    <ID>D001</ID>
+    <Name>Red Wine</Name>
+    <Price>20</Price>
+    <ImagePath>noimage.jpg</ImagePath>
+  </product>
+  <product>
+    <ID>D001</ID>
+    <Name>Red Wine</Name>
+    <Price>20</Price>
+    <ImagePath>noimage.jpg</ImagePath>
+  </product>
+  <product>
+    <ID>D003</ID>
+    <Name>Coke</Name>
+    <Price>20</Price>
+    <ImagePath>noimage.jpg</ImagePath>
+  </product>
+</products>
